@@ -1,0 +1,27 @@
+{
+  "name": "Vue2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "rollup -c -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jane-js-003/Vue2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jane-js-003/Vue2/issues"
+  },
+  "homepage": "https://github.com/Jane-js-003/Vue2#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "rollup": "^2.45.2",
+    "rollup-plugin-babel": "^4.4.0"
+  }
+}
